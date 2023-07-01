@@ -1,0 +1,22 @@
+{
+  "name": "lokesh",
+  "version": "1.0.0",
+  "description": "lokesh",
+  "main": "lokesh",
+  "scripts": {
+    "test": "lokesh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lokesh"
+  },
+  "keywords": [
+    "lokesh"
+  ],
+  "author": "lokesh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "requests": "^0.3.0"
+  }
+}
